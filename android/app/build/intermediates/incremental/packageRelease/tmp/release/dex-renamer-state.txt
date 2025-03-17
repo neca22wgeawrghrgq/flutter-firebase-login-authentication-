@@ -1,0 +1,4 @@
+#Sun Mar 16 04:25:38 PDT 2025
+base.0=C\:\\Users\\hi\\Documents\\Flutter\\firebase_flutter_app1\\flutter_firebase_app1\\android\\app\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

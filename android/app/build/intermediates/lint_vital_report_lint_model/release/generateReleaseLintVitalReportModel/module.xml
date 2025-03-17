@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="C:\Users\hi\Documents\Flutter\firebase_flutter_app1\flutter_firebase_app1\android\app"
+    name=":app"
+    type="APP"
+    maven="android:app:unspecified"
+    agpVersion="8.7.0"
+    buildFolder="build"
+    bootClassPath="C:\AndroidSDK\platforms\android-34\android.jar;C:\AndroidSDK\build-tools\34.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="11"
+    compileTarget="android-34">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>
